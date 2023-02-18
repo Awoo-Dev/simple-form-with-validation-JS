@@ -1,6 +1,11 @@
 'use strict'//This line enables strict mode, which helps catch errors in JavaScript code.
 //
-//This code adds an event listener to the window object that will run when the window has finished loading. It then sets the display of a box with a class of "dashed" to none. It also adds an event listener to a form with an id of "formulario" that will run when the form is submitted. The code then grabs the value from three input fields with ids of "name", "lastname", and "age". It then checks if each value is valid, and if it is, it logs the values and sets the display of the box with a class of "dashed" to block. The code then grabs three elements with ids of "p_nombre", "p_apellido", and "p_edad" and sets their innerHTML values to those from the input fields.
+//This code adds an event listener to the window object that will run when the window has finished loading. 
+//It then sets the display of a box with a class of "dashed" to none. It also adds an event listener to a 
+//form with an id of "formulario" that will run when the form is submitted. The code then grabs the value from 
+//three input fields with ids of "name", "lastname", and "age". It then checks if each value is valid, and if it
+//is, it logs the values and sets the display of the box with a class of "dashed" to block. The code then grabs 
+//three elements with ids of "p_nombre", "p_apellido", and "p_edad" and sets their innerHTML values to those from the input fields.
 
 
 
